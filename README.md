@@ -1,5 +1,7 @@
 # hse_hw4_scRNA_seq
 
+[colab ноутбук](https://colab.research.google.com/drive/1TLmf-whvhJPI_GVNbP1CM7VTlfFBAGGg?usp=sharing) (код продублирован в папке `/src`)
+
 ## Нормализация данных
 Данные были нормализованы методом TPM, обычный метод TPM задается следующей формулой
 

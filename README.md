@@ -23,10 +23,14 @@ $$
 ## UMAP и PCA
 Также были визуализированы UMAP и PCA, используя [anndata](https://anndata.readthedocs.io/en/latest/) и [scanpy](https://scanpy.readthedocs.io/en/stable/)
 
+### PCA:
 ![Alt text](/img/pca.png "Title")
 
+### UMAP:
 ![Alt text](/img/umap.png "Title")
-
 
 Тут мы разбили данные по группам cTEC, mTEC-I, mTEC-II, mTEC-III, mTEC-IV, тем самым понизив размерность данных и получив деление на группы
 
+## Вывод:
+
+Можем видеть, что `UMAP` сработал лучше, но он работает сильно дольше
